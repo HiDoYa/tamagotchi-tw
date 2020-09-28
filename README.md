@@ -1,6 +1,6 @@
 # Tamagotchi Tweeter
 
-Tweets random tamagotchi image everyday at https://twitter.com/Tamagocchi15. Tamagotchi images scraped used separate utility from official tamagotchi website. 
+Tweets random tamagotchi image everyday at https://twitter.com/Tamagocchi15. Tamagotchi images scraped used separate utility from official tamagotchi website. Currently deployed on aws ec2 instance.
 
 To run on server, first install secrets file with all twitter keys.
 ```
