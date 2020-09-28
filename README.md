@@ -1,10 +1,10 @@
 # Tamagotchi Tweeter
 
-Tweets random tamagotchi image everyday at https://twitter.com/Tamagocchi15. Tamagotchi images scraped used separate utility from official tamagotchi website. Currently deployed on aws ec2 instance.
+Tweets random tamagotchi image everyday at twitter.com/Tamagocchi15. Tamagotchi images scraped used separate utility from official tamagotchi website. Currently deployed on aws ec2 instance.
 
-To run on server, first install secrets file with all twitter keys.
+To run on server, first create secrets file with all twitter keys, and load in with your shell. Then:
 ```
-source secrets.env
+chmod +x tweet.py
 ```
 
 Then, create cron job to run tweet.py every day with
