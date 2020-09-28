@@ -2,7 +2,9 @@
 
 Tweets random tamagotchi image everyday at twitter.com/Tamagocchi15. Tamagotchi images scraped used separate utility from official tamagotchi website. Currently deployed on aws ec2 instance.
 
-To run on server, first create secrets file with all twitter keys, and load in with your shell. Make sure to run the utility shell script to download all tamagotchi images and place them in a directory called "tama\_images" in the base directory. Then change permissions for tweet.py:
+To run on server, first create secrets file with all twitter keys, and load in with your shell (e.g. put keys in a secrets.env file and load in the .env file in bash\_profile). You must create environment variables: ```TW_API_KEY, TW_API_KEY_SECRET, TW_ACCESS_TOKEN, TW_ACCESS_TOKEN_SECRET```. Get these variables from twitter API dashboard.
+
+Make sure to run the utility shell script to download all tamagotchi images and place them in a directory called "tama\_images" in the base directory. Then change permissions for tweet.py:
 ```
 chmod +x tweet.py
 ```
