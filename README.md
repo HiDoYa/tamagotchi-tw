@@ -7,4 +7,4 @@ To run on server, first create a secrets.env file in the base directory with all
 Make sure to run the utility shell script to download all tamagotchi images and place them in a directory called "tama\_images" in the base directory. Then, run the provided startup script to create the cron job.
 
 ## Utility
-Scrapes and downloads all tamagotchi image files. May need to be manually sorted to check for invalid images. (I know, I shouldn't be using c++ for this. I'm reusing old code.) 
+Scrapes and downloads all tamagotchi image files, then cuts them so that miscellaneous text is cut out.
