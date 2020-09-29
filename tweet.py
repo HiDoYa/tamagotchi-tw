@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 import pathlib
-import sys
 import os
 import random
 import tweepy
