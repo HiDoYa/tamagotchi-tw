@@ -7,11 +7,13 @@ ext = ".jpg"
 path = "tama_images/"
 
 if not os.path.exists(path):
+    print("Creating: {}".format(path))
     os.makedirs(path)
 
 for i in range(1, 294 + 1):
     url = link + "{:0>3d}".format(i) + ext
     link_name = os.path.basename(url)
+    print("Fetching: {}".format(url))
     res = requests.get(url)
     if res.status_code != 200:
         continue

@@ -1,5 +1,10 @@
 secrets.env
+gcloud_tamagotchi.json
 *.out
-tama_images/
-cc_tama_images/
 mysqllogin.conf
+
+correct.txt
+errs.txt
+
+*tama_images*/
+

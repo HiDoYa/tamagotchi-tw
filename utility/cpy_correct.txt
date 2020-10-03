@@ -1,0 +1,279 @@
+chara_001.jpg,まめっち,Mametchi
+chara_002.jpg,ラブリっち,Loveli
+chara_003.jpg,ラブリン,Lovelin
+chara_004.jpg,メロディっち,Melodicchi
+chara_005.jpg,めめっち,Memetchi
+chara_006.jpg,くちぱっち,Kuchipatchi
+chara_007.jpg,もりりっち,Moriritchi
+chara_008.jpg,ちゃまめっち,Chamametchi
+chara_009.jpg,ハピハピっち,Hapihapicchi
+chara_010.jpg,テルリン,Tellurin
+chara_011.jpg,どれみっち,Doremichi
+chara_012.jpg,そぷらっち,Sopuratchi
+chara_013.jpg,パシャリン,Pasharin
+chara_014.jpg,ふらわっち,Fluffy
+chara_015.jpg,まきこ,Makiko
+chara_016.jpg,くろまめっち,Kuromametchi
+chara_017.jpg,ききっち,Kikitchi
+chara_018.jpg,ござるっち,Gozarucchi
+chara_019.jpg,うわさっち,Uwasatchi
+chara_020.jpg,スペイシーっち,Spacey-cchi
+chara_021.jpg,アカスぺっち,Akasupecchi
+chara_022.jpg,ピポスペっち,Hiposupecchi
+chara_023.jpg,ゴッチマン,Gotchman
+chara_024.jpg,ぱぱまめっち,Papamamecchi
+chara_025.jpg,ままめっち,Mamamecchi
+chara_026.jpg,ラブパパりっち,Lovepaparitchi
+chara_027.jpg,ラブママりっち,Lovemamaritchi
+chara_028.jpg,いもっち,Potato
+chara_029.jpg,あねもりりっち,Anemori Ritchi
+chara_030.jpg,わたわたっち,Watawatachi
+chara_031.jpg,こりっは先生,This is a teacher
+chara_032.jpg,まねーねっち,Mimicry
+chara_033.jpg,たまPっち,Tama Pcchi
+chara_034.jpg,ADっち,ADtchi
+chara_035.jpg,ギラギラっち,Giragiratchi
+chara_036.jpg,マイスターっち,Meistertchi
+chara_037.jpg,ごっち大王,Gocchi Great King
+chara_038.jpg,たまご姫,Princess Tamago
+chara_039.jpg,なちゅらっち,Naturalcchi
+chara_040.jpg,ポンポンっち,Ponponcchi
+chara_041.jpg,すのぼっち,Sunobocchi
+chara_042.jpg,くいしんぼっち,Kuishinbocchi
+chara_043.jpg,しぐれひめっち,Shigure Himecchi
+chara_044.jpg,ペろっち,Perotti
+chara_045.jpg,シュートっち,Shoot
+chara_046.jpg,ぼくっち,Bokuchi
+chara_047.jpg,ヒーローっち,Herocchi
+chara_048.jpg,マドンナっち,Madonnacchi
+chara_049.jpg,あげっち,Agecchi
+chara_050.jpg,しんしっち,Shinshichi
+chara_051.jpg,ペイントっち,Paintcchi
+chara_052.jpg,ぐりぐりっ5,Guriguricchi
+chara_053.jpg,ぴちぴっち,Pichipicchi
+chara_054.jpg,ばぐばぐっち,Bagubagucchi
+chara_055.jpg,ちっちー,Chicchi
+chara_056.jpg,温泉モグラっち,Hot spring mo guracchi
+chara_057.jpg,ルビーっち,Rubycchi
+chara_058.jpg,しゅりけんっち,Shurikencchi
+chara_059.jpg,ぷちベリっち,Puchibericchi
+chara_060.jpg,はらっぱらっち,Haraparacchi
+chara_061.jpg,みみっち,Mimichi
+chara_062.jpg,でばっち,Tebacchi
+chara_063.jpg,とげっち,Tokecchi
+chara_064.jpg,ひのたまっち,Hinotamatchi
+chara_065.jpg,りんごっち,Ringocchi
+chara_066.jpg,ねむっち,Nemucchi
+chara_067.jpg,やったっち,I did it-cchi
+chara_068.jpg,どろっち,Dorocchi
+chara_069.jpg,タコウィンナーつら,Octopus wieners
+chara_070.jpg,あつあつっち,Atsu atsu cchi
+chara_071.jpg,さぶさぶっち,Sabusabucchi
+chara_072.jpg,ひめっち,Himecchi
+chara_073.jpg,ののぽっち,Nonopocchi
+chara_074.jpg,くまったっち,Bear-tacchi
+chara_075.jpg,くのいっち,Kunoichi
+chara_076.jpg,やんぐどろっち,Yangudorocchi
+chara_077.jpg,エコうさっち,Eco-usacchi
+chara_078.jpg,やんぐまめっち,Yanguma Mecchi
+chara_079.jpg,ぐるめっち,Gurumecchi
+chara_080.jpg,メロパパっち,Melopapacchi
+chara_081.jpg,メロママっち,Melomamacchi
+chara_082.jpg,メ口ディランド女主,Melody Land Tyrant
+chara_083.jpg,めめぱぱっち,Memepapacchi
+chara_084.jpg,めめままっち,Mememanacchi
+chara_085.jpg,ぱぱぱっち,Papapacchi
+chara_086.jpg,ままぱっち,Mamapacchi
+chara_087.jpg,まじょりて,Majorite
+chara_088.jpg,ムッシュキキパパ,Mush Kikipapa
+chara_089.jpg,マダムキキ,Madaamukiki
+chara_090.jpg,セバスチャンっち,Sebaschancchis
+chara_091.jpg,安全おばっち,Safety Obacchi
+chara_092.jpg,ママコッペっち,Mamakopecchi
+chara_093.jpg,辞典亀先生,Dictionary turtle teacher
+chara_094.jpg,ミミズ校長,Principal Worm
+chara_095.jpg,ドン·パラっち,Don Paracchi
+chara_096.jpg,MCパペっち,MC Papecchi
+chara_097.jpg,カメラっち5&センパイかめっち,Cameracchi & Senpai Kametchi
+chara_098.jpg,かきわりっち,Kakiwarichi
+chara_099.jpg,ブラックハット,Black hat
+chara_100.jpg,たまステっち,Tama Stecchi
+chara_101.jpg,ハッピーバーガーっち,Happy Burgercchi
+chara_102.jpg,だいくっち,Daikucchi
+chara_103.jpg,とんかっち,Tonkachi
+chara_104.jpg,どーなっち,Donutcchi
+chara_105.jpg,デパガっち,Tebagacchi
+chara_106.jpg,うらないっち,Uranaicchi
+chara_107.jpg,ねくたいっち,Nekutaicchi
+chara_108.jpg,おじっち,Ojicchi
+chara_109.jpg,おトキっち,Otokicchi
+chara_111.jpg,こがらしっち,Ogarashicchi
+chara_112.jpg,ウィンディっち,Vintytchi
+chara_113.jpg,たまひこ王子,Prince Tamahiko
+chara_114.jpg,シェイカーっち,Shakercchi
+chara_115.jpg,サンタクロっち,Santakurocchi
+chara_116.jpg,アカハナっち,Akahanacchi
+chara_117.jpg,きずなっち,Kizunacchi
+chara_119.jpg,ひめスペっち,Himesupecchi
+chara_120.jpg,ゆめみっち,Yumemicchi
+chara_121.jpg,キラリっち,Kiraricchi
+chara_122.jpg,ゆめキャンっち,Dream Kyancchi
+chara_123.jpg,ピアニっち,Pianicchi
+chara_124.jpg,コフレっち,Coffret
+chara_125.jpg,ふりふりっち,Furifuricchi
+chara_126.jpg,ほしガールっち,Hoshi girlcchi
+chara_127.jpg,どやっち,Doyachi
+chara_128.jpg,からくっち,Karakucchi
+chara_129.jpg,あまくっち,Amakucchi
+chara_130.jpg,タクトっち,Tactocchi
+chara_131.jpg,はなふわっち,Hanafuwacchi
+chara_132.jpg,ごっちもっち,Gocchimocchi
+chara_133.jpg,ジェリエっち,Jellycchi
+chara_134.jpg,ナイトっち,Nightcchi
+chara_135.jpg,ライトっち,Lightcchi
+chara_136.jpg,なんでっち,Why-cchi
+chara_137.jpg,トロピカっち,Toropica-cchi
+chara_138.jpg,ゆきんこっち,Yukinkochi
+chara_139.jpg,パティっち,Patitchi
+chara_140.jpg,くれーぷっち,Crepe-cchi
+chara_141.jpg,ワルツっち,Waltzcchi
+chara_142.jpg,ハープっち,Harpcchi
+chara_143.jpg,りんくるっち,Rinkurucchi
+chara_144.jpg,あみあみっち,AmiAmicchi
+chara_145.jpg,ちょーちょっち,Butterfly-cchi
+chara_146.jpg,もなかっち,Monakacchi
+chara_147.jpg,あっちっち,Acchicchi
+chara_148.jpg,おめん校長,Mask principal
+chara_149.jpg,こくばんっち先生,Blackboardcchi Sensei
+chara_150.jpg,はくばんこ先生,Hakubanko Sensei
+chara_151.jpg,みっち-先生,Micchi Sensei
+chara_152.jpg,ロボメカっち先生,Robo mecha cchi
+chara_153.jpg,コームボウイ先生,Comb Boy Sensei
+chara_154.jpg,グリルっち先生,Grillcchi Sensei
+chara_155.jpg,ムジカっち先生,Musicacchi Sensei
+chara_156.jpg,モードっち先生,Mode-cchi Sensei
+chara_157.jpg,トリマっち先生,Torimacchi Sensei
+chara_158.jpg,ゆめままっち,Yumemamacchi
+chara_159.jpg,バトラーっち,Butlercchi
+chara_160.jpg,キラままっち,Kira Mamacchi
+chara_161.jpg,キラもっち,Kira Mocchi
+chara_162.jpg,いかりっち,Anger-cchi
+chara_163.jpg,サイケっち,Psychedelic-cchi
+chara_164.jpg,シックっち,Chicchi
+chara_165.jpg,ちゅうかっち,Chuukachi
+chara_166.jpg,ちゃいなっち,Chainacchi
+chara_167.jpg,カフェママ,Cafe Mama
+chara_168.jpg,パパピアニっち,Papapianichi
+chara_169.jpg,デコレっち,Dekorecchi
+chara_170.jpg,チャラっち,Characchi
+chara_171.jpg,わがシエっち,Waga Shiecchi
+chara_172.jpg,しりもっち,Shirimoch
+chara_173.jpg,D2,D2
+chara_175.jpg,占い師のおはあさん,Fortune-teller's mother
+chara_176.jpg,回長っち,Leader-cchi
+chara_177.jpg,ピエロっち,Clown cchi
+chara_178.jpg,アクロハっち,Acrobat-cchi
+chara_179.jpg,いちりんしゃっち,Unicycle-cchi
+chara_180.jpg,サーカスっち,Circus-cchi
+chara_181.jpg,まじょっこっち,Baby Witch-cchi
+chara_182.jpg,ライオンっち,Lion cchi
+chara_183.jpg,たいこっち,Drum cchi
+chara_184.jpg,ふりらぶっち,Furirabucchi
+chara_185.jpg,どやケンっち,Doyakencchi
+chara_186.jpg,もなトトっち,Mona Totocchi
+chara_187.jpg,リンスっち,Rinse cchi
+chara_188.jpg,チャピっち,Chapicchi
+chara_189.jpg,まきもっち,Makimocchi
+chara_190.jpg,マイキーっちアナ,Mikey-cchi Anna
+chara_200.jpg,みらいっち,Miraichi
+chara_201.jpg,くるるっち,Kururucchi
+chara_202.jpg,ウォッチリン,Watchlin
+chara_203.jpg,スマートっち,Smartcchi
+chara_204.jpg,X,X
+chara_205.jpg,トリームバグっち,Dream Bugcchi
+chara_206.jpg,マダムっち,Madam cchi
+chara_207.jpg,えんちょうっち,Principalcchi
+chara_208.jpg,きゃんでぃぱくぱく,Candy Pakupaku
+chara_209.jpg,ドクターフューチャー,Doctor Future
+chara_210.jpg,オークションおじっち,Auction Mancchi
+chara_211.jpg,まるてんっち先生,Marutencchi-sensei
+chara_212.jpg,ぺこぺこっち,Pekopekocchi
+chara_213.jpg,あめあーとっち,Amea Tocchi
+chara_214.jpg,くるまきっち,Kuruma-kicchi
+chara_215.jpg,おやじっち,Dad-cchi
+chara_216.jpg,ねえねっち,Sister-chi
+chara_217.jpg,おれねっち,Orenecchi
+chara_219.jpg,パパコフレっち,Papa Coffretchi
+chara_220.jpg,ママコフレっち,Mama Coffretchi
+chara_221.jpg,クジャックジャック,Peacock chi
+chara_222.jpg,アグリっち,Aguricchi
+chara_223.jpg,Dream5,Dream5
+chara_224.jpg,くよくよっち,Kuyokuyocchi
+chara_225.jpg,サンタブルーっち,Santa Blucchi
+chara_226.jpg,アオハナっち,Blue Nosecchi
+chara_227.jpg,ゆきおっち,Yuki Occhi
+chara_228.jpg,三日月イルカっち,March Dolphingcchi
+chara_229.jpg,かきのたねっち,Kaki no Tanecchi
+chara_230.jpg,レディババっち,Lady Babacchi
+chara_231.jpg,オッケーっち,Okaycchi
+chara_232.jpg,どりぼんず,Toribonzu
+chara_233.jpg,hitomiっち,Hitomicchi
+chara_234.jpg,わたぱっち,Watapachi
+chara_235.jpg,でびっち,Devilcchi
+chara_236.jpg,ぷっくっち,Pukkucchi
+chara_237.jpg,きゃわっち,Kyawacchi
+chara_238.jpg,もてっち,Motecchi
+chara_239.jpg,ぽりばけっち,Poribakecchi
+chara_240.jpg,ういっち,Witch
+chara_241.jpg,ほしぷかっち,Hoshipukacchi
+chara_242.jpg,ラブソラっち,Rabusoracchi
+chara_243.jpg,シッターぽけっち,Sitter Pokecchi
+chara_244.jpg,つよっち,Tsuyocchi
+chara_245.jpg,モフモフっち,Mofumofucchi
+chara_246.jpg,サンタイエローっち,Santa Yellowcchi
+chara_248.jpg,ひめばらっち,Himebaracchi
+chara_249.jpg,ももっち,Momocchi
+chara_250.jpg,こねねっち,Konenecchi
+chara_251.jpg,れーなおばっち,Rena Auntie Cchi
+chara_252.jpg,たまここ姫,Tamakokohime
+chara_253.jpg,黒板ティーチャー,Blackboard teacher
+chara_254.jpg,電卓先生,Calculator teacher
+chara_255.jpg,フラスコ先生,Flask teacher
+chara_256.jpg,フラワー先生,Flower teacher
+chara_257.jpg,キャンバス先生,Canvas teacher
+chara_258.jpg,包帯子先生,Bandage teacher
+chara_259.jpg,まめはかせっち,Professor Beancchi
+chara_261.jpg,よつばっち,Yotsubacchi
+chara_262.jpg,ぴかごろっち,Hikagorocchi
+chara_263.jpg,じぇりーっち,Jellycchi
+chara_264.jpg,ぶしのすけっち,Bushi no skecchi
+chara_265.jpg,もりじかっち,Morijikacchi
+chara_266.jpg,オーケストロっち,Orchestrocchi
+chara_267.jpg,しまぐるっち,Shimagurucchi
+chara_268.jpg,スペプラネっち,Supepuranecchi
+chara_269.jpg,くりりっち,Kuriricchi
+chara_270.jpg,しのびにゃっち,Shinobi Nyachi
+chara_271.jpg,ことひめっち,Kotohimecchi
+chara_272.jpg,にじふわっち,Nijifuwacchi
+chara_273.jpg,フェアリっち,Fairycchi
+chara_274.jpg,マジョリっち,Witch-cchi
+chara_275.jpg,ころばっとっち,Korobattocchi
+chara_276.jpg,ゆにぺがさっち,Uni-pegasa-cchi
+chara_277.jpg,オムチャプっち,Omuchappucchi
+chara_278.jpg,かっぱっぱっち,Kappapacchi
+chara_279.jpg,ビザリーナっち,Pizza linacchi
+chara_280.jpg,チュチュリナっち,Chuchurinacchi
+chara_281.jpg,およごーぐるっち,Oyogo-gurucchi
+chara_282.jpg,チェリチェリち,Cherry cherrycchi
+chara_283.jpg,ようもっち,Yomocchi
+chara_284.jpg,はたけもーっち,Hatake Mocchi
+chara_285.jpg,きみなにざっち,Kiminanizacchi
+chara_286.jpg,もちうさっち,Mochi Usachi
+chara_287.jpg,ねじろぼっち,Nejiro Bocchi
+chara_288.jpg,ボンネっちゃ,Bonne
+chara_289.jpg,かりすまっち,Charismacchi
+chara_290.jpg,エッグバスケっち,Eggbasketcchi
+chara_291.jpg,ぴよたまうさっち,Piyotama Usachi
+chara_292.jpg,たまレディっち,Tamaladycchi
+chara_293.jpg,たまボーイっち,Tamaboycchi
+chara_294.jpg,フラワーフルール,Flower fleur
