@@ -1,8 +1,8 @@
 # Tamagotchi Tweeter
 
-![Screenshot preview](preview.png)
-
 Tweets random tamagotchi image everyday at [twitter link](https://twitter.com/Tamagocchi15). Tamagotchi images are scraped from the official tamagotchi website. Tamaogotchi names are then parsed from the images via Google Cloud OCR (after preprocessing with python pillow) and is translated to English through Google Cloud Translate service. Currently deployed on aws ec2 instance.
+
+![Screenshot preview](preview.png)
 
 Aws\_rds with MYSQL was also utilized to store all tamagotvhi character metadata, but was switched to simple file storage due to expensive costs.
 
