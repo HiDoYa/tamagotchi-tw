@@ -1,7 +1,6 @@
 #!/bin/bash
 
-
-if [ $1 = "create" ]; then
+if [[ $1 = "create" ]]; then
 	python3 links.py
 	python3 cut.py
 	python3 label.py
@@ -9,7 +8,7 @@ if [ $1 = "create" ]; then
 fi
 
 echo $1
-if [ $1 = "load" ]; then
+if [[ $1 = "load" ]]; then
 	python3 correction.py load
 	cp -r name_tama_images_meta_en ../
 	cp -r name_tama_images_meta_jp ../
