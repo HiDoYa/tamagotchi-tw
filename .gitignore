@@ -1,10 +1,10 @@
+.DS_Store
+
 secrets.env
 gcloud_tamagotchi.json
-*.out
-mysqllogin.conf
-
 correct.txt
-errs.txt
-
 *tama_images*/
+.terraform*
 
+tweet_lambda.zip
+package/
